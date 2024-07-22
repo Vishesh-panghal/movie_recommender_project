@@ -122,6 +122,10 @@ Build a Flutter application to interact with the FastAPI and visualize the movie
 ```bash
   git clone https://github.com/Vishesh-panghal/movie_recommender_project.git
 ```
+2. Navigate to the Model directory:
+```bash
+  cd ml_model
+```
 3. Run the model training script:
 ```bash
   python Movie Recommender System.ipynb
